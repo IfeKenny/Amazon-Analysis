@@ -1,5 +1,5 @@
 # Amazon-Analysis
-This dashboard provides a sales and performance analysis for Amazon operations, specifically focused on the Nigeria region. The tools used in creating the visulaization is power BI from an excel file.
+This dashboard provides a sales and performance analysis for Amazon operations, specifically focused on the Nigeria region. The tools used in creating the visualization is power BI from an excel file.
 This Amazon Nigeria sales dashboard highlights key performance metrics for a small-scale operation and it includes the following;
 Total sales reached 882K with a 3.11% profit margin from 34 items sold to 16 customers.
 Electronics (specifically Wristwatches and Smartwatches) is the dominant category for both revenue and profit.
